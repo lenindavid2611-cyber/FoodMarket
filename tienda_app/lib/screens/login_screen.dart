@@ -31,7 +31,7 @@ class _LoginScreenState extends State<LoginScreen> {
         context.go('/home');
       } else {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Credenciales incorrectas. Usa usuario@demo.com / 123456')),
+          const SnackBar(content: Text('Credenciales incorrectas. Usa lenin@gmail.com / 123456')),
         );
       }
     }
