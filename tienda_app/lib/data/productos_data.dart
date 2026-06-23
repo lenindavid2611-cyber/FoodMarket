@@ -25,7 +25,7 @@ const List<Product> kProducts = [
   ),
   Product(
     id: '3',
-    name: 'Café de Especialidad Orgánico',
+    name: 'Café Orgánico',
     description: 'Granos seleccionados con notas de chocolate y frutos rojos. Tueste medio.',
     price: 20000,
     imageUrl: 'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400',
@@ -35,7 +35,7 @@ const List<Product> kProducts = [
   ),
   Product(
     id: '4',
-    name: 'Pasta Artesanal Fusilli',
+    name: 'Pasta Artesanal',
     description: 'Elaborada con sémola de trigo duro de la más alta calidad y secado lento.',
     price: 15000,
     imageUrl: 'https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=400',
@@ -108,7 +108,7 @@ const List<Product> kProducts = [
   ),
   Product(
     id: '11',
-    name: 'Vinagre Balsámico de Módena',
+    name: 'Vinagre Balsámico',
     description: 'Envejecido en barricas de madera fina, con una consistencia densa y sabor agridulce perfecto.',
     price: 35000,
     imageUrl: 'https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?w=400',
